@@ -1,3 +1,2 @@
 # subreteo
-# subreteo
-# subReteo
+en diferentes tecnologias
